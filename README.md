@@ -3,7 +3,6 @@
 This repository contains Jupyter notebooks showcasing machine learning models for restaurant recommendations and performing exploratory data analysis (EDA) using Python. The aim is to provide valuable insights and practical implementations of various data analysis and machine learning techniques.
 
 # Introduction
-
 This repository is designed to demonstrate the application of machine learning models in the context of restaurant recommendations and to showcase exploratory data analysis techniques. Whether you are new to machine learning and data analysis or looking to expand your skillset, these notebooks provide practical examples and insights.
 
 # Notebooks
